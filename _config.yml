@@ -1,0 +1,19 @@
+# Theme
+remote_theme: epidrome/cover-card
+
+# Site Settings
+title: '恒星中国社区'
+description: '恒星及区块链在中国的应用与落地'
+
+# Online profiles
+github: 'StellarCN'
+telegram: 'stellarchina'
+
+# Images
+avatar: 'avatar.jpg'
+background: 'background.jpg'
+favicon: 'avatar.jpg'
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
